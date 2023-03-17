@@ -9,9 +9,8 @@ The loan-providing companies find it hard to give loans to people due to their i
  
 When the company receives a loan application, the company has to decide on loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
-If the applicant is likely to repay the loan, then not approving the loan results in a loss of business for the company.
-If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
- 
+#### If the applicant is likely to repay the loan, then not approving the loan results in a loss of business for the company.
+#### If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
 The data given below contains information about the loan application at the time of applying for the loan. It contains two types of scenarios:
 
@@ -34,7 +33,7 @@ In other words, the company wants to understand the driving factors (or driver v
 
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics - understanding the types of variables and their significance should be enough.
 
-#### This dataset has 3 files as explained below: 
+### This dataset has 3 files as explained below: 
 
 'application_data.csv'  contains all the information of the client at the time of application. The data is about whether a client has payment difficulties.
  
